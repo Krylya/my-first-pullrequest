@@ -24,3 +24,4 @@ English letters
 скажем дружно: нахуй нужно
 Some text
 Оставляю свой след в истории
+my name is Peter
